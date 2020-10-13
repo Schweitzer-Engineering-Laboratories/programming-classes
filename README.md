@@ -1,7 +1,7 @@
 # SEL Programming Classes
 This repository contains the interactive materials, i.e.
 scripts/assignments/examples, for programming classes designed and hosted at
-SEL.
+Schweitzer Engineering Laboratories.
 
 Contact: Brett Deaton, STEM Fundamentals program
 
@@ -10,18 +10,18 @@ Contact: Brett Deaton, STEM Fundamentals program
 
 **Getting Started with Python.** An active orientation to Python using Jupyter
 Notebooks. The audience is anyone with little to no programming experience.
-When done, participants will be able to run, modify, and write simple scripts
+When done, participants will be able to run, modify, and create scripts
 using basic syntax like `print`, `for`-loops, `if`-statements, `input`,
-and put a `list` to work through its methods and Python's built-in functions.
+and simple objects like `list`s.
 
 
 ### Quick Start For Class Participants
-If your class is run through a cloud based interpreter like
-[Binder](https://mybinder.org/), you may be interacting with this code through
-a server and won't need to download a local copy at all.
+You can interact with your own instance of this code repository directly
+in your browser by visiting this Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main)
 
-If you do want the code on your local machine:
-1. Download zip of this repository.
+If instead you want the code on your local machine:
+1. Download a zip of this repository.
 2. Navigate to `<yourclass>` directory.
 3. Follow the instructions in `<yourclass>/README.md`.
 
@@ -33,13 +33,21 @@ instructions for `git clone` below.
 If you want to create a new or improve an old SEL programming class, reach out.
 We'd love your ideas! To join the development team:
 1. Create your own github account with conventional handle `<username>SEL`.
-2. Request an invite to the organization `Schweitzer-Engineering-Laboratories`
-   (contact Thomas Benda, Jason Kemp in 2020).
-3. Request write access to this repository (contact Brett Deaton in 2020).
+2. Request an invite to the organization `Schweitzer-Engineering-Laboratories`.
+   (Contact Thomas Benda, Jason Kemp, or Robert Pepka as of 2020.)
+3. Request write access to this repository. (Contact Brett Deaton as of 2020.)
 4. Clone this repo:
    `git clone https://github.com/Schweitzer-Engineering-Laboratories/programming-classes.git`.
-5. Develop using the git workflow: add/remove/modify files > `git add` >
-   `git commit` > `git push`.
+5. Develop using the
+   [GitHub workflow](https://guides.github.com/introduction/flow/),
+   keeping the `main` branch always deployable. For example:
+
+   * create local `dev` branch (name it better than this) from `main` to work in
+   * add/remove/modify files > `git add` > `git commit` > repeat
+   * `git push dev`
+   * create pull request > pass code review
+   * `git merge`
+
    Keep your commits *small* (e.g. a few hours of work) and
    *coherent* (e.g. avoid commits that solve multiple unrelated issues).
 
@@ -69,15 +77,18 @@ Introduce new problems to Get Started Python
 
 
 ### License
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
-<a rel="cc:attributionURL" property="dct:title" href="https://github.com/Schweitzer-Engineering-Laboratories/programming-classes">Programming Classes</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://selinc.com/">Schweitzer Engineering Laboratories</a> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+[Programming Classes](https://github.com/Schweitzer-Engineering-Laboratories/programming-classes)
+by [Schweitzer Engineery Laboratories](https://selinc.com/) is licensed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+
+<a rel="licenseICON" href="https://creativecommons.org/licenses/by-sa/4.0"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
 </p>
 
-This is a copyleft license, allowing free reuse, modification, and
-distribution of this material as long as it is given proper attribution,
-linked to the original license,
-and identifies any changes. Derivative works must be distributed
-under the same license.
+If you are a student or teacher anywhere in the world, please use this material!
+It is disributed under a copyleft license, allowing free reuse, modification,
+and distribution as long as derivative works give proper attribution,
+link to the original license, identify changes, and are distributed under the
+same license.
 
 Note, this CC license is usually used for works of art and education not
 software, for which the MIT or GPL licenses are more appropriate.
