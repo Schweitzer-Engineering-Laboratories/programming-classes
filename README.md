@@ -42,11 +42,16 @@ We'd love your ideas! To join the development team:
    [GitHub workflow](https://guides.github.com/introduction/flow/),
    keeping the `main` branch always deployable. For example:
 
-   * create local `dev` branch (name it better than this) from `main` to work in
-   * add/remove/modify files > `git add` > `git commit` > repeat
-   * `git push dev`
-   * create pull request > pass code review
-   * `git merge`
+   * pull current state of main branch:
+     `git pull --rebase`
+   * create local `dev` branch (name it better than this) from `main` to work in:
+     `git switch -c dev`
+   * modify > commit > repeat:
+     `git add ... git commit ...`
+   * push completed development branch to github:
+     `git push -u dev`
+   * merge `dev` into `main` on github:
+     create github pull request > pass code review > merge
 
    Keep your commits *small* (e.g. a few hours of work) and
    *coherent* (e.g. avoid commits that solve multiple unrelated issues).
@@ -69,11 +74,7 @@ Make your commit messages clear and concise. Limit the first line
 [50 characters or less](https://chris.beams.io/posts/git-commit/#limit-50) and
 write in the
 [imperative mood](https://chris.beams.io/posts/git-commit/#imperative).
-Refrain from a body unless further explanation is needed.
-For example:
-```
-Introduce new problems to Get Started Python
-```
+Feel free to refrain from a body if further explanation isn't needed.
 
 
 ### License
