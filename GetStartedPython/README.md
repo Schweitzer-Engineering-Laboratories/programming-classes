@@ -14,7 +14,7 @@ in the class on Workday.
 Launch your own Binder instance of this class by clicking here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?filepath=GetStartedPython)
 
-#### Segments
+#### Contents
 Each Jupyter Notebook in this directory is a class activity:
 
 1. `hello_world.ipynb`: Write your first Python script. Use `print()`,
@@ -23,6 +23,11 @@ Each Jupyter Notebook in this directory is a class activity:
    and construct objects from objects of different type.
 3. `lists.ipynb`: Build and use `list`s in different ways. Use `append()`,
    `count()`, `sort()`, slicing, and other list methods and functions.
+
+Explore and expand Jupyter Notebooks that apply these concepts to real-world
+questions in the `examples/` directory. Share your own application scripts with
+your class and; if they're well-documented and connected to these concepts your
+facilitator may add it to the examples for future classes.
 
 #### Resources
 Some help resources:

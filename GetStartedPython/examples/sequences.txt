@@ -1,0 +1,34 @@
+# Sequences of Bopit calls from Adina 9.25.20
+#   b: "bop it", p: "pull it", t: "twist it".
+#   Each line is a different game. I recorded every call of every game in this
+#   sequence of 30 games. The longest games possible are 100 calls.
+btpt
+btptbtptb
+btptpbpbppt
+btptpbptpb
+btpbpbppbbppbt
+btpttbbpbp
+btpttbppp
+btppbbptbbbp
+btppbtptbpp
+btpbtbbt
+btpbtp
+btpbtbp
+btpptpbp
+btptbtpppbbb
+btptbbpttbt
+b
+btpbpptbpp
+btp
+btptptpbbtttbbtp
+b
+btpbpbpbtbbpbpttp
+btptbbtptpbp
+btptpbtpbtp
+btpttp
+btp
+btpptbtbtbtbtptptp
+b
+b
+b
+btpbpbtttbtpbpptbbbpttptpbtbptptppbtpbtpbtbttbptptpbbbtbpbbtbtptttbbpbttbbbptbbpptbtptbtptbtbptpbpbp
