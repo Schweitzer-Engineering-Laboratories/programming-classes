@@ -69,6 +69,9 @@ simply, including information common to other `README`s
 
 Store images in `images` directory at the root level for each course.
 
+Create an `examples` directory at the root level for each course for which
+applications are to be shared. Students may contribute examples.
+
 Make your commit messages clear and concise. Limit the first line
 (i.e. the subject of the commit) to
 [50 characters or less](https://chris.beams.io/posts/git-commit/#limit-50) and
