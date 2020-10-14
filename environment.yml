@@ -1,4 +1,0 @@
-name: sel-classes
-dependencies:
-  - pandas
-  - matplotlib
