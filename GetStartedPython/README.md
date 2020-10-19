@@ -33,21 +33,20 @@ And find examples of past participants' Jupyter Notebooks that solve real-world
 problems in the examples directory.
 
 #### Resources
-Some help resources:
-
 Official Python language documentation:
-* [intro tutorial](https://docs.python.org/3/tutorial/index.html)
-* [built-in functions](https://docs.python.org/3/library/functions.html)
-* [syntax reference](https://docs.python.org/3/reference/index.html)
-* [the standard library](https://docs.python.org/3/library/)
+[intro tutorial](https://docs.python.org/3/tutorial/index.html),
+[built-in functions](https://docs.python.org/3/library/functions.html),
+[syntax reference](https://docs.python.org/3/reference/index.html),
+[the standard library](https://docs.python.org/3/library/).
 
 Other Python language resources:
-* [stackoverflow Q&As](https://stackoverflow.com/questions/tagged/python-3.x)
-* [cheat sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+[stackoverflow Q&As](https://stackoverflow.com/questions/tagged/python-3.x),
+[cheat sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
 
-Jupyter Notebooks
-* [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
-* [cheat sheet](https://medium.com/edureka/jupyter-notebook-cheat-sheet-88f60d1aca7)
+Jupyter Notebooks resources:
+[this class's reference](reference.ipynb),
+[official documentation](https://jupyter-notebook.readthedocs.io/en/stable/),
+[cheat sheet](https://medium.com/edureka/jupyter-notebook-cheat-sheet-88f60d1aca7).
 
-Extras:
-* [Python style guide](https://www.python.org/dev/peps/pep-0008/)
+Extra resources:
+[Python style guide](https://www.python.org/dev/peps/pep-0008/).
