@@ -11,23 +11,26 @@ on the Development Team) and the world (see python.org and stackexchange.com).
 This is an interactive newcomer's orientation to Python. SEL employees enroll
 in the class on Workday.
 
-Launch your own Binder instance of this class by clicking here:
+Click here to launch your own Binder instance of this class:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?filepath=GetStartedPython)
 
 #### Contents
-Each Jupyter Notebook in this directory is a class activity:
+Each Jupyter Notebook in this directory is a class activity, building in
+sequence:
 
-1. `hello_world.ipynb`: Write your first Python script. Use `print()`,
-   `for ...`, and `range()`.
-2. `user_input.ipynb`: Query and print user input. Use `input()`, `if ...`,
+1. [hello_world.ipynb](hello_world.ipynb):
+   Write your first Python script. Use `print()`, `for ...`, and `range()`.
+2. [user_input.ipynb](user_input.ipynb):
+   Query and print user input. Use `input()`, `if ...`,
    and construct objects from objects of different type.
-3. `lists.ipynb`: Build and use `list`s in different ways. Use `append()`,
+3. [lists.ipynb](lists.ipynb):
+   Build and use `list`s in different ways. Use `append()`,
    `count()`, `sort()`, slicing, and other list methods and functions.
 
-Explore and expand Jupyter Notebooks that apply these concepts to real-world
-questions in the `examples/` directory. Share your own application scripts with
-your class and; if they're well-documented and connected to these concepts your
-facilitator may add it to the examples for future classes.
+In addition, [reference.ipynb](reference.ipynb) provides an introduction to
+Jupyter Notebooks.
+And find examples of past participants' Jupyter Notebooks that solve real-world
+problems in the examples directory.
 
 #### Resources
 Some help resources:
