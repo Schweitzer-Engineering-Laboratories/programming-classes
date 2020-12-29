@@ -8,7 +8,7 @@ Contact: Brett Deaton, STEM Fundamentals program
 
 ### Course Catalog
 
-**Getting Started with Python.** An active orientation to Python using Jupyter
+**Get Started With Python.** An active orientation to Python using Jupyter
 Notebooks. The audience is anyone with little to no programming experience.
 When done, participants will be able to run, modify, and create scripts
 using basic syntax like `print`, `for`-loops, `if`-statements, `input`,
@@ -64,13 +64,12 @@ containing no whitespace, dashes, or underscores.
 Add a short class description to [Course Catalog](#course-catalog) above for
 each new class.
 
-Create a `README` file in each course root directory describing the course
-simply, including information common to other `README`s
+Create a `README.md` file in each course root directory describing the course
+simply, including information common to other `README`s.
 
-Store images in `images` directory at the root level for each course.
-
-Create an `examples` directory at the root level for each course for which
-applications are to be shared. Students may contribute examples.
+Create the following directories at the root level for any course as needed:
+`images`, `examples` for real-world applications at the learning level of the
+class, `projects` for students' final projects.
 
 Make your commit messages clear and concise. Limit the first line
 (i.e. the subject of the commit) to
@@ -78,6 +77,9 @@ Make your commit messages clear and concise. Limit the first line
 write in the
 [imperative mood](https://chris.beams.io/posts/git-commit/#imperative).
 Feel free to refrain from a body if further explanation isn't needed.
+
+Students who don't use git may contribute by sharing their work with the
+instructor who can commit to this repository.
 
 
 ### License

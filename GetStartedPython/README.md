@@ -18,19 +18,21 @@ Click here to launch your own Binder instance of this class:
 Each Jupyter Notebook in this directory is a class activity, building in
 sequence:
 
-1. [hello_world.ipynb](hello_world.ipynb):
+1. [1-hello_world.ipynb](1-hello_world.ipynb):
    Write your first Python script. Use `print()`, `for ...`, and `range()`.
-2. [user_input.ipynb](user_input.ipynb):
+2. [2-user_input.ipynb](2-user_input.ipynb):
    Query and print user input. Use `input()`, `if ...`,
    and construct objects from objects of different type.
-3. [lists.ipynb](lists.ipynb):
+3. [3-lists.ipynb](3-lists.ipynb):
    Build and use `list`s in different ways. Use `append()`,
    `count()`, `sort()`, slicing, and other list methods and functions.
 
-In addition, [reference.ipynb](reference.ipynb) provides an introduction to
+In addition, [0-reference.ipynb](0-reference.ipynb) provides an introduction to
 Jupyter Notebooks.
-And find examples of past participants' Jupyter Notebooks that solve real-world
-problems in the examples directory.
+
+Find examples of working Jupyter Notebooks in the `examples` directory
+(solving real-world problems), and in the `projects` directory (showing past
+participants' final projects).
 
 #### Resources
 Official Python language documentation:
@@ -44,7 +46,7 @@ Other Python language resources:
 [cheat sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
 
 Jupyter Notebooks resources:
-[this class's reference](reference.ipynb),
+[this class's reference](0-reference.ipynb),
 [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/),
 [cheat sheet](https://medium.com/edureka/jupyter-notebook-cheat-sheet-88f60d1aca7).
 
