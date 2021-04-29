@@ -1,4 +1,4 @@
-# Get Started With Python
+# Start Programming With Python
 
 Welcome to Python!
 
@@ -12,7 +12,7 @@ This is an interactive newcomer's orientation to Python. SEL employees enroll
 in the class on Workday.
 
 Click here to launch your own Binder instance of this class:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?filepath=GetStartedPython)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?filepath=StartProgrammingPython)
 
 #### Contents
 Each Jupyter Notebook in this directory is a class activity, building in

@@ -8,7 +8,7 @@ Contact: Brett Deaton, STEM Fundamentals program
 
 ### Course Catalog
 
-**Get Started With Python.** An active orientation to Python using Jupyter
+**Start Programming With Python.** An active orientation to Python using Jupyter
 Notebooks. The audience is anyone with little to no programming experience.
 When done, participants will be able to run, modify, and create scripts
 using basic syntax like `print`, `for`-loops, `if`-statements, `input`,
