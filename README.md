@@ -3,7 +3,7 @@ This repository contains the interactive materials, i.e.
 scripts/assignments/examples, for programming classes designed and hosted at
 Schweitzer Engineering Laboratories.
 
-Contact: Brett Deaton, STEM Fundamentals program
+Contact: Brett Deaton, Fundamentals Program
 
 
 ### Course Catalog
