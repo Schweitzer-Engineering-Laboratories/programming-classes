@@ -2,3 +2,4 @@ ipython
 numpy
 matplotlib
 pandas
+openpyxl
