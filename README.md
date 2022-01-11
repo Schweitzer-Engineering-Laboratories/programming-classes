@@ -3,7 +3,7 @@ This repository contains the interactive materials, i.e.
 scripts/assignments/examples, for programming classes designed and hosted at
 Schweitzer Engineering Laboratories.
 
-Contact: Brett Deaton, Fundamentals Program
+Contact: Brett Deaton, STEM Fundamentals Program
 
 
 ### Course Catalog
@@ -14,19 +14,29 @@ When done, participants will be able to run, modify, and create scripts
 using basic syntax like `print`, `for`-loops, `if`-statements, `input`,
 and simple objects like `list`s.
 
+**Python for Programmers.** An active overview of Python's core language
+features, data structures, and object model. The audience is anyone who wants
+a boost into Python who has prior experience solving problems in another
+language. When done, participants will be able to use common data structures
+like lists, sets, and dictionaries. They will be able to define and use
+functions (including with default, keyword, and variable parameter sets),
+classes (including creating new types that interface with built-in functions),
+and modules (both defining your own and importing others). Class examples
+reveal the power and limits of the "Pythonic" idiom.
 
-### Quick Start For Class Participants
+
+### Quick Start for Class Participants
 You can interact with your own instance of this code repository directly
 in your browser by visiting this Binder link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main)
 
-If instead you want the code on your local machine:
-1. Download a zip of this repository.
+For a source-controlled copy with the entire version history, follow the
+instructions for `git clone` below.
+
+Or if you just want the code on your local machine without dealing with git:
+1. Download and extract a zip of this repository.
 2. Navigate to `<yourclass>` directory.
 3. Follow the instructions in `<yourclass>/README.md`.
-
-Or for an updateable copy with the entire version history, follow the
-instructions for `git clone` below.
 
 
 ### Quick Start For Contributors
@@ -34,8 +44,8 @@ If you want to create a new or improve an old SEL programming class, reach out.
 We'd love your ideas! To join the development team:
 1. Create your own github account with conventional handle `<username>SEL`.
 2. Request an invite to the organization `Schweitzer-Engineering-Laboratories`.
-   (Contact Thomas Benda, Jason Kemp, or Robert Pepka as of 2020.)
-3. Request write access to this repository. (Contact Brett Deaton as of 2020.)
+   (Contact Thomas Benda, Jason Kemp, or Robert Pepka as of 2022.)
+3. Request write access to this repository. (Contact Brett Deaton as of 2022.)
 4. Clone this repo:
    `git clone https://github.com/Schweitzer-Engineering-Laboratories/programming-classes.git`.
 5. Develop using the
@@ -53,7 +63,7 @@ We'd love your ideas! To join the development team:
    * merge `dev` into `main` on github:
      create github pull request > pass code review > merge
 
-   Keep your commits *small* (e.g. a few hours of work) and
+   As always, keep your commits *small* (e.g. a few hours of work) and
    *coherent* (e.g. avoid commits that solve multiple unrelated issues).
 
 
