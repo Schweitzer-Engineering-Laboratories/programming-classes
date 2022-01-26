@@ -1,15 +1,27 @@
 # Python for Programmers
 
-Welcome to Python!
+Welcome to a deeper look at Python!
 
-Python is a versatile (lots of modules focused on specific tasks),
-easy-to-learn (syntax reads like English) programming language supported by
-an active community within SEL (see the SEL Code Club Team or the Python channel
-on the Development Team) and the world (see python.org and stackexchange.com).
+This is an active overview of Python's core language
+features, data structures, and object model.
+When done, participants will be able to use common data structures
+like lists, sets, and dictionaries. They will be able to define and use
+functions (including with default, keyword, and variable parameter sets),
+classes (including creating new types that interface with built-in functions),
+and modules (both defining your own and importing others). Class examples
+reveal the power and limits of the "Pythonic" idiom.
+
+This class is for programmers. If you're able to write code in some language,
+using control flow (if/else, loops), functions, and ideally classes, to solve a
+problem, e.g. "given an input string like this paragraph, generate a count of
+the number of times the word 'is' is used."
+If that doesn't describe you, you'll want
+to spend some time coding before you take this class. A great place to start is
+our introductory Python class,
+[Start Programming With Python](../StartProgrammingPython/README.md).
 
 #### Quick Start
-This is an interactive programmer's overview of Python. SEL employees enroll
-in the class on Workday.
+SEL employees enroll in the class on Workday.
 
 Click here to launch your own Binder instance of this class:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?labpath=PythonForProgrammers)

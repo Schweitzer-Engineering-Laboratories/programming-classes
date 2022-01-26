@@ -7,9 +7,12 @@ easy-to-learn (syntax reads like English) programming language supported by
 an active community within SEL (see the SEL Code Club Team or the Python channel
 on the Development Team) and the world (see python.org and stackexchange.com).
 
+This class if for new programmers. If you already have extensive experience
+writing code in some language, you may prefer the more advanced overview,
+[Python for Programmers](../PythonForProgrammers/README.md).
+
 #### Quick Start
-This is an interactive newcomer's orientation to Python. SEL employees enroll
-in the class on Workday.
+SEL employees enroll in the class on Workday.
 
 Click here to launch your own Binder instance of this class:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?labpath=StartProgrammingPython)
