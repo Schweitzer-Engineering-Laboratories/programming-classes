@@ -16,7 +16,4 @@ ipython_config.py
 *pdf
 
 # Virtual Environment Files
-/*venv*/Include
-/*venv*/Lib
-/*venv*/Scripts
-/*venv*/pyvenv.cfg
+/*-venv*
