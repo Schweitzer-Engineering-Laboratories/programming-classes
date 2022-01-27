@@ -2,8 +2,6 @@
 # then run pip-compile requirements.in. If creating a new virtual environment,
 # you'll also have to pip install pip-tools in that environment.
 
-jupyterlab
-ipython<8.0 # >=8.0 not available on Binder in Jan 2022
 matplotlib
 numpy<1.22 # >=1.22 not available on Binder in Jan 2022
 openpyxl
