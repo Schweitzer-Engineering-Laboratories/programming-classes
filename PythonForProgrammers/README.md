@@ -31,6 +31,8 @@ These Jupyter Notebooks are a sandbox of examples we'll walk through in class.
 They can also serve as a start to your own notes for reference. Class has two
 segments: 1) overview, and 2) data structures & organizing concepts.
 
+0. [0-reference.ipynb](0-reference.ipynb):
+   Collection of commonly-used code structures and Q&As related to this course.
 1. [1-overview.ipynb](1-overview.ipynb):
    Practice using core features of the language: keywords and operators,
    comments and docstrings, indentation, NoneType, strong dynamic typing,
