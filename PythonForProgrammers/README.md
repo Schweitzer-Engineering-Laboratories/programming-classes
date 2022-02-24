@@ -32,7 +32,10 @@ They can also serve as a start to your own notes for reference. Class has two
 segments: 1) overview, and 2) data structures & organizing concepts.
 
 0. [0-reference.ipynb](0-reference.ipynb):
-   Collection of commonly-used code structures and Q&As related to this course.
+   Quickly see some of the common idioms sprinkled widely through the Notebooks
+   below like printing string representations of objects, importing
+   modules/packages/libraries, inspecting an object's interface, accessing the
+   documentation, formatting strings. Also a growing list of Q&As.
 1. [1-overview.ipynb](1-overview.ipynb):
    Practice using core features of the language: keywords and operators,
    comments and docstrings, indentation, NoneType, strong dynamic typing,
@@ -48,13 +51,6 @@ segments: 1) overview, and 2) data structures & organizing concepts.
    data structure and functionality you need to solve your problems,
    employing magic methods for construction and polymorphism. Organize
    your problem's object model using inheritance.
-
-In addition, [0-quick_start.ipynb](0-quick_start.ipynb) provides a quick
-look at some of the common idioms sprinkled widely through the Notebooks above
-like printing string representations of objects, importing
-modules/packages/libraries, inspecting an object's interface, accessing the
-documentation, formatting strings.
-
 
 #### Resources
 Official Python language documentation:
