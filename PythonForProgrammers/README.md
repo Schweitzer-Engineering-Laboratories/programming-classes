@@ -22,8 +22,11 @@ take this class. A great place to start is our introductory Python class,
 #### Quick Start
 SEL employees enroll in the class on Workday.
 
-Click here to launch your own Binder instance of this class:
+Click below to launch your own Binder or Google Colab instance of this class:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?labpath=PythonForProgrammers)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Schweitzer-Engineering-Laboratories/programming-classes/blob/main/PythonForProgrammers/1-overview.ipynb)
 
 #### Contents
 These Jupyter Notebooks are a sandbox of examples we'll walk through in class.

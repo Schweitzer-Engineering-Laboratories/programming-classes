@@ -14,8 +14,11 @@ writing code in some language, you may prefer the more advanced overview,
 #### Quick Start
 SEL employees enroll in the class on Workday.
 
-Click here to launch your own Binder instance of this class:
+Click below to launch your own Binder or Google Colab instance of this class:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Schweitzer-Engineering-Laboratories/programming-classes/main?labpath=StartProgrammingPython)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Schweitzer-Engineering-Laboratories/programming-classes/blob/main/StartProgrammingPython/1-hello_world.ipynb)
 
 #### Contents
 Each Jupyter Notebook in this directory is a class activity, building in
